@@ -21,4 +21,9 @@
       <version>4.11</version>
     </dependency>
   </dependencies>
+  <properties>
+    <sonar.projectKey>lzilber_repro-s5960</sonar.projectKey>
+    <sonar.organization>lzilber</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
